@@ -12,6 +12,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
+    <h1>Telerik Report Conditional formating Demo</h1>
+    </div>
+    <div>
        <telerik:ReportViewer ID="ReportViewer1" runat="server"></telerik:ReportViewer>
     </div>
     </form>
